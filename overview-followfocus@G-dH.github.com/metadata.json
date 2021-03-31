@@ -1,0 +1,10 @@
+{
+  "description": "Activate a window under the mouse pointer when leaving Activities overview, without a need of pressing the mouse button -> press the Super (Windows) key, hover the mouse pointer over the window you want to activate and press the Super key again.", 
+  "name": "Overview Followfocus", 
+  "shell-version": [
+    "3.36"
+  ], 
+  "url": "https://github.com/G-dH/ap-gnome-shell-extensions", 
+  "uuid": "overview-followfocus@G-dH.github.com", 
+  "version": 1
+}
